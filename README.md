@@ -1,3 +1,3 @@
-# lame_os
+# LameOS
 
 A pretty lame OS.
